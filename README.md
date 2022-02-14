@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Mentor - Testimonials GRID Section</h1>
 
-<img src=".....?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-testimonials-grid-section-main/blob/main/Preview.JPG?raw=true" ></img>
 
 <br>
 
@@ -26,7 +26,7 @@ I dove deeper into CSS GRID with this one. Especially in terms of full responsiv
 <br>
 
 ## Site links
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-testimonials-grid-section-main/)
 <br>
 Frontend Mentor [Solution Page]()
 
