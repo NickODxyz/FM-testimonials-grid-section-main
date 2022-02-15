@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Mentor - Testimonials GRID Section</h1>
 
-<img src="https://github.com/NickODxyz/FM-testimonials-grid-section-main/blob/main/Preview2.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-testimonials-grid-section-main/blob/main/Preview.JPG?raw=true" ></img>
 
 <br>
 
